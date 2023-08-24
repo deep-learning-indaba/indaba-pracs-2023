@@ -1,2 +1,5 @@
 ml-25m
 practicals/data
+practicals/data_prep.py
+practicals/tutorial_notebook.ipynb
+__pycache__
