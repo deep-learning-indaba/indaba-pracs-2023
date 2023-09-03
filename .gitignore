@@ -2,4 +2,5 @@ ml-25m
 practicals/data
 practicals/data_prep.py
 practicals/tutorial_notebook.ipynb
+practicals/indaba_recsys_gnns.ipynb
 __pycache__
